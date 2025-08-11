@@ -12,7 +12,7 @@ ORDER BY TotalSales DESC
 ```
 **Result:**
 
-*Technology* – $5,984,249
+Technology – $5,984,249
 
 ## 2️⃣ Top 3 & Bottom 3 Regions by Sales
 ```
@@ -168,7 +168,7 @@ Align shipping method with order priority.
 
 Revisit logistics contracts.
 
-##💡 Key Takeaways
+## 💡 Key Takeaways:
 Technology is the leading revenue driver — focus on upselling in this category.
 
 Underperforming regions need targeted marketing.
