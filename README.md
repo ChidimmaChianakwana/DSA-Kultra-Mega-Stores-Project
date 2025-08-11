@@ -146,7 +146,6 @@ Consumer – 147
 
 ## 1️⃣1️⃣ Shipping Cost vs Order Priority
 ```
-Edit
 SELECT Ship_Mode, Order_Priority, COUNT(*) AS OrderCount, SUM(Shipping_Cost) AS TotalShippingCost
 FROM [KMS data]
 GROUP BY Ship_Mode, Order_Priority
