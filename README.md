@@ -178,3 +178,6 @@ Retention strategies for low-value customers can boost long-term sales.
 
 Product returns warrant deeper quality control reviews.
 
+## 📌 Tools Used
+Microsoft SQL for SQL execution
+
